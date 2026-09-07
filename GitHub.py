@@ -1,2 +1,2 @@
-printf ("Hello Welcome To GitHub Worlds")
+print("Hello Welcome To GitHub Worlds")
 
